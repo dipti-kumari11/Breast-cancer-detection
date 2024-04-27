@@ -69,28 +69,36 @@ ul li a:hover{
     width: 330px;
     float: left;
     margin-left: 270px;
+
 }
 
 .help-bar {
-    width: fit-content; /* Adjust the width based on content */
+    width: 2px; /* Adjust the width based on content */
     padding: 5px; /* Add padding for spacing */
     border: 1px solid #ccc; /* Add a border for visual separation */
+    height: 1px;
+
 }
 
 .srch{
     font-family: 'Times New Roman';
-    width: 200px;
+    width: 100px;
     height: 40px;
     background: transparent;
     border: 1px solid #454c4f;
     margin-top: 13px;
-    color: rgb(37, 34, 34)
-    border-right: none;
+    color: rgb(228, 241, 209);
+    margin-left: 125px;
+
+
+
+
+    /* border-right: 10px;
     font-size: 16px;
     float: left;
     padding: 10px;
     border-bottom-left-radius: 5px;
-    border-top-left-radius: 5px;
+    border-top-left-radius: 5px; */
 }
 
 .btn{
